@@ -1,0 +1,7 @@
+id=PlexPriv
+name=Plex Media Player
+version=v7.9.0.8283 (arm64)
+versionCode=2018
+author=FayzB
+description=Plex Media Player Unlock
+minMagisk=1400
